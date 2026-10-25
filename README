@@ -1,0 +1,67 @@
+# HiperSkin 🧴✨
+### AI-Powered Skincare Analysis Platform
+
+HiperSkin is an AI-powered skincare web application designed to help users understand their skin concerns and explore personalized skincare recommendations.
+
+## 🚀 Features
+- AI-powered skin analysis
+- Personalized skincare recommendations
+- Interactive and user-friendly interface
+- Skin concern insights
+
+## 🛠️ Tech Stack
+- Python
+- Streamlit
+- Google Gemini AI
+- OpenCV
+- NumPy
+
+## 👥 Team Details
+
+**Team Name:** CodeX
+
+**Team Leader:** Atharva Srivastava
+
+**Participants:**
+- Utkarsh Kumar
+- Anirudhda Gupta
+- Aditya Prajapati
+
+## 🌐 Live Demo
+
+**Live Demo Link:** [Click here to try HiperSkin](ADD_YOUR_LIVE_DEMO_URL_HERE)
+
+> Replace the placeholder above with your deployed website URL.
+
+## 💻 Run Locally
+
+1. Clone this repository:
+   ```bash
+   git clone YOUR_GITHUB_REPOSITORY_URL
+   ```
+
+2. Open the project folder:
+   ```bash
+   cd Hiperskin
+   ```
+
+3. Install the dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Run the application:
+   ```bash
+   streamlit run app.py
+   ```
+
+## 🔐 Environment Variables
+
+Configure the required API key in your local `.env` file before using AI-powered features. **Never upload your API key or `.env` file to GitHub.**
+
+## 🎯 Project Goal
+
+To make skincare information more accessible through AI-assisted skin analysis and personalized recommendations.
+
+---
+
